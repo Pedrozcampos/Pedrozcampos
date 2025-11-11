@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👨‍💻 Pedro Henrique R. Campos
 
-<!--
-**Pedrozcampos/Pedrozcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor BackEnd`**
 
-Here are some ideas to get you started:
+Me chamo Pedro Henrique, tenho 17 anos e sou natural de Minas Gerais. Estou cursando o 2.º ano do ensino médio e, atualmente, estou fazendo cursos de programação, desde cursos sobre lógica a linguagens específicas. Sou apaixonado por tecnologia desde pequeno e decidi mergulhar nesse mundo com tudo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozcampos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
