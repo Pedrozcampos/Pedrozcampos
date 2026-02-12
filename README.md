@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Pedro Henrique, tenho 17 anos e sou natural de Minas Gerais. Estou cursando o 2.º ano do ensino médio e, atualmente, estou fazendo cursos de programação, desde cursos sobre lógica a linguagens específicas. Sou apaixonado por tecnologia desde pequeno e decidi mergulhar nesse mundo com tudo!
+Me chamo Pedro Henrique, tenho 17 anos e sou de Minas Gerais. Estou cursando o 2º ano do ensino médio e, atualmente, estou estagiando em uma empresa de Auditoria Contábil. Sendo mais específico, faço automações para facilitar e agilizar processos repetitivos e analiso dados com SQL. Sou apaixonado por tecnologia desde pequeno e decidi mergulhar nesse mundo com tudo, acredito que a tecnologia agilizou a vida!
 
 
 ---
@@ -51,6 +51,23 @@ Me chamo Pedro Henrique, tenho 17 anos e sou natural de Minas Gerais. Estou curs
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img
+    lign="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+/>
+<img
+    lign="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+/>
+          
 <br/>
 <br/>
 
