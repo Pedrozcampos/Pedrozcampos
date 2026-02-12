@@ -57,7 +57,7 @@ Me chamo Pedro Henrique, tenho 17 anos e sou de Minas Gerais. Estou cursando o 2
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 <img
     lign="left" 
@@ -65,7 +65,7 @@ Me chamo Pedro Henrique, tenho 17 anos e sou de Minas Gerais. Estou cursando o 2
     title="Pandas"
     width="30px" 
     style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
 />
           
 <br/>
